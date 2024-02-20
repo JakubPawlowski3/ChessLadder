@@ -1,0 +1,5 @@
+Jakub,Mecz,300
+Pawel,Mat,500
+Piotr,Koc,200
+Mateusz,Mega,300
+Michal,Misz,1000
